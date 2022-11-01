@@ -22,9 +22,9 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 
 - ``HTML e CSS``
 - ``JavaScript e JSON``
-- ``[Node e NPM](https://nodejs.org/)``
-- ``[Vite](https://vitejs.dev/)``
-- ``[iMask](https://imask.js.org)``
+- ``Node e NPM``
+- ``Vite``
+- ``iMask``
 
 ## 🛠️ Ferramentas utilizadas
 
