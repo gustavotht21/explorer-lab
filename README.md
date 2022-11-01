@@ -1,4 +1,4 @@
-# [TÍTULO DO PROJETO] 
+# RocketPay
 
 <p align="center">
   <img alt="rocketpay" src=".github/project.png" width="100%">
@@ -41,7 +41,7 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 
 ## 📂 Acesso ao projeto
 
-Você pode acessar o projeto [via link](https://gustavotht21.github.io/explorer-lab) ou [baixar o projeto]() e iniciá-lo na IDE de sua preferência, onde quando executado irá abrir no navegador o projeto funcionando
+Você pode acessar o projeto [via link](https://gustavotht21.github.io/explorer-lab) ou [baixar o projeto](https://github.com/gustavotht21/explorer-lab/archive/refs/heads/main.zip) e iniciá-lo na IDE de sua preferência, onde quando executado irá abrir no navegador o projeto funcionando
 
 ## 👤 Autor
 
